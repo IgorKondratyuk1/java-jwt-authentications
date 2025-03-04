@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: security
+
+jwt:
+  access-secret: test123
+  refresh-secret: test321
